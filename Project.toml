@@ -1,0 +1,10 @@
+name = "IntrospectionTools"
+uuid = "d8c2de52-12b9-4615-9650-95773b5c37e8"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
+
+[compat]
+julia = "1.7"
